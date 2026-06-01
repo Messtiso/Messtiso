@@ -1,8 +1,8 @@
 ## Hi, I'm Sebastian 👋
 
-🎓 BSc Computing Student at Birkbeck, University of London
-💻 Aspiring Software Engineer focused on full-stack development
-🚀 Passionate about building practical software, solving problems, and continuously improving my skills
+- 🎓 BSc Computing Student at Birkbeck, University of London
+- 💻 Aspiring Software Engineer focused on full-stack development
+- 🚀 Passionate about building practical software, solving problems, and continuously improving my skills
 
 ---
 
@@ -11,35 +11,6 @@
 - Strengthening Data Structures & Algorithms knowledge through LeetCode
 - Developing software engineering best practices
 - Seeking Software Engineering Internship opportunities
-
----
-
-🛠️ **Technologies**  
-Languages:
-- JavaScript  
-- Python
-- SQL
-- PHP
-
-Frontend:
-- React
-- HTML
-- CSS
-
-Backend:
-- Node.js
-- Express.js
-- REST APIs
-
-Database:
-- MongoDB
-- SQLite
-
-Tools:
-- Git
-- GitHub
-- VS Code
-- MongoDB Atlas
 
 ---
 
@@ -72,6 +43,36 @@ Tech Stack: Python, SQLite
 
 ---
 
+🛠️ **Technologies**  
+
+Languages:
+- JavaScript  
+- Python
+- SQL
+- PHP
+
+Frontend:
+- React
+- HTML
+- CSS
+
+Backend:
+- Node.js
+- Express.js
+- REST APIs
+
+Database:
+- MongoDB
+- SQLite
+
+Tools:
+- Git
+- GitHub
+- VS Code
+- MongoDB Atlas
+
+---
+
 👯 **I’m looking to collaborate on**  
 - Open Source Projects
 - Beginner-Friendly Development Projects
@@ -82,5 +83,3 @@ Tech Stack: Python, SQLite
 📫 **How to reach me**  
 - LinkedIn: www.linkedin.com/in/sebastian-restrepo-017b8b270  
 - Email: sebastianpaladinesargote@gmail.com
-
----
