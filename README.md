@@ -1,34 +1,84 @@
 ## Hi, I'm Sebastian 👋
 
-💻 Aspiring Software Developer focused on full-stack development and continuous learning.  
-I enjoy building projects, solving problems, and exploring how software systems work under the hood.
+🎓 BSc Computing Student at Birkbeck, University of London
+💻 Aspiring Software Engineer focused on full-stack development
+🚀 Passionate about building practical software, solving problems, and continuously improving my skills
 
 ---
 
-🔭 **I’m currently working on**  
-- **InnerNote** – a journaling web application focused on mood tracking and personal insights  
-- Other exciting projects to hone my skills and deepen my understanding of software development
+🔭 **Current Focus**  
+- Building full-stack applications with JavaScript
+- Strengthening Data Structures & Algorithms knowledge through LeetCode
+- Developing software engineering best practices
+- Seeking Software Engineering Internship opportunities
 
-🌱 **I’m currently learning**  
-- JavaScript ecosystem (Node.js, APIs, backend fundamentals)  
-- Git & GitHub workflows  
-- Data Structures & Algorithms for technical interviews  
-- Software engineering best practices
+---
+
+🛠️ **Technologies**  
+Languages:
+- JavaScript  
+- Python
+- SQL
+- PHP
+
+Frontend:
+- React
+- HTML
+- CSS
+
+Backend:
+- Node.js
+- Express.js
+- REST APIs
+
+Database:
+- MongoDB
+- SQLite
+
+Tools:
+- Git
+- GitHub
+- VS Code
+- MongoDB Atlas
+
+---
+
+🚀 **Featured Projects**
+
+InnerNote
+
+A journaling web application that provides mood insights through sentiment analysis.
+
+Tech Stack: React, Node.js, Express, MongoDB Atlas
+
+QuizTime
+
+Interactive quiz platform focused on learning and revision.
+
+Tech Stack: JavaScript, HTML, CSS
+
+MultySell
+
+Inventory management application for tracking products across multiple selling platforms.
+
+Tech Stack: Python, SQLite
+
+---
+
+🌱 **Currently Learning**
+- Data Structures & Algorithms
+- System Design Fundamentals
+- Backend Development
+- Software Engineering Best Practices
+
+---
 
 👯 **I’m looking to collaborate on**  
-- Open source projects  
-- Beginner-friendly development projects  
-- Anything where I can contribute, learn, and support others in the community
+- Open Source Projects
+- Beginner-Friendly Development Projects
+- Hackathons and Student Projects
 
-🤔 **I’m looking for help with**  
-- Improving my projects  
-- Learning better development practices  
-- Deepening my understanding of software engineering concepts
-
-💬 **Ask me about**  
-- My learning journey into software development  
-- Projects I'm building and experimenting with  
-- Tech, games, or anything interesting in the world of software
+---
 
 📫 **How to reach me**  
 - LinkedIn: www.linkedin.com/in/sebastian-restrepo-017b8b270  
