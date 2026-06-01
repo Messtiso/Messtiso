@@ -1,7 +1,7 @@
 ## Hi, I'm Sebastian 👋
 
 - 🎓 BSc Computing Student at Birkbeck, University of London
-- 💻 Aspiring Software Engineer focused on full-stack development
+- 💻 Building full-stack applications with JavaScript, React, and Node.js
 - 🚀 Passionate about building practical software, solving problems, and continuously improving my skills
 
 ---
@@ -29,6 +29,7 @@ Interactive quiz platform focused on learning and revision.
 Tech Stack: JavaScript, HTML, CSS
 
 ### [MultySell](https://github.com/Messtiso/MultySale)
+
 Inventory management application for tracking products across multiple selling platforms.
 
 Tech Stack: Python, SQLite
