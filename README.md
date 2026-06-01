@@ -45,20 +45,19 @@ Tools:
 
 🚀 **Featured Projects**
 
-InnerNote
+### [InnerNote](https://github.com/Messtiso/InnerNote)
 
 A journaling web application that provides mood insights through sentiment analysis.
 
 Tech Stack: React, Node.js, Express, MongoDB Atlas
 
-QuizTime
+### [QuizTime](https://github.com/Messtiso/QuizTime)
 
 Interactive quiz platform focused on learning and revision.
 
 Tech Stack: JavaScript, HTML, CSS
 
-MultySell
-
+### [MultySell](https://github.com/Messtiso/MultySale)
 Inventory management application for tracking products across multiple selling platforms.
 
 Tech Stack: Python, SQLite
