@@ -46,31 +46,17 @@ Tech Stack: Python, SQLite
 
 🛠️ **Technologies**  
 
-Languages:
-- JavaScript  
-- Python
-- SQL
-- PHP
+## 🛠️ Technologies
 
-Frontend:
-- React
-- HTML
-- CSS
+**Languages:** JavaScript, Python, SQL, PHP
 
-Backend:
-- Node.js
-- Express.js
-- REST APIs
+**Frontend:** React, HTML, CSS
 
-Database:
-- MongoDB
-- SQLite
+**Backend:** Node.js, Express.js, REST APIs
 
-Tools:
-- Git
-- GitHub
-- VS Code
-- MongoDB Atlas
+**Database:** MongoDB, SQLite
+
+**Tools:** Git, GitHub, VS Code, MongoDB Atlas
 
 ---
 
